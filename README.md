@@ -26,7 +26,7 @@ Se requiere que la aplicación pueda:
 Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones. Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
 
 ### Cómo presentar la solución
-Cuando consideres que el problema está resuelto, debes subirlo a un repositorio privado de tu elección, y agregarme como colaborador (usuario: fsfederico); enviarnos un mail a fsare@culturait.com.ar con el link de acceso, además podes agregar cualquier comentario que creas correspondiente.
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio privado en GitHub, y agregarme como colaborador (usuario: fsfederico); enviarnos un mail a fsare@culturait.com.ar con el link de acceso, además podes agregar cualquier comentario que creas correspondiente.
 
 
 **Happy hacking!**
